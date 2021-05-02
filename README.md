@@ -7,10 +7,10 @@
   It leads us to an acceptance of ‘what is’, and an openness to ‘what may come’. Mindfulness leads to the inner realisation that our ordinary consciousness has limitations, and to    be truly free, open and balanced, we need to go beyond the limitations of our self. It awakens our yearning to reconnect with the Source, to respond to the call of the Spirit     that we can realise that it emanates from within This new state of consciousness leads us to a deeper insight, to a deeper awareness of the eternal divine Spirit-spark that is    within us, but not of us. We become aware that we are connected with the Spirit in us, but we realise that we are not yet consciously connected with It. We feel deeply our incompleteness, and we long to become whole.:gem:
   
   
-  [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+  [![SARA Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Nailtique/Reading-notes-/edit/main/README.md)
   
   
   ## ++MY GREATEST ACHIEVENT WILL BE WHENEVER SOMEONE CLICKS ON THE BELOW WIKIPAGE, IT WILL BE FULL OF INOFRMATION ABOUT MY TECH FIRM!!++
-  [![S|NAILTIQUE](https://onewiththewater.org/growth-mindset-mixed-mindset/)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+  [![S| NAILTIQUE](https://onewiththewater.org/growth-mindset-mixed-mindset/)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
 
 
