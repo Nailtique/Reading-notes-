@@ -9,6 +9,6 @@
   
   [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
   
-  [![S|NAILTIQUE](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+  [![S|NAILTIQUE](https://onewiththewater.org/growth-mindset-mixed-mindset/)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
 
 
