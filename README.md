@@ -12,7 +12,7 @@
   
   ## ++MY GREATEST ACHIEVENT WILL BE WHENEVER SOMEONE CLICKS ON THE BELOW WIKIPAGE, IT WILL BE FULL OF INOFRMATION ABOUT MY TECH FIRM!!++
   
-  [![N|NailTech ](https://onewiththewater.org/growth-mindset-mixed-mindset/.png)](https://nodesource.com/products/nsolid)
-  [![S| NAILTIQUE](https://onewiththewater.org/growth-mindset-mixed-mindset/)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+  [![N|NailTech ](https://www.designevo.com/apps/logo/?name=gradient-lowercase-a-and-s-monogram)](https://nodesource.com/products/nsolid)
+  [![S| NAILTIQUE](https://www.designevo.com/apps/logo/?name=gradient-lowercase-a-and-s-monogram)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
 
 
