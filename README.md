@@ -18,9 +18,13 @@
   
   
   
-![Wireframe](https://www.dreamstime.com/wireframe-low-poly-mesh-human-cartoon-body-virtual-reality-medical-blueprint-scanned-d-model-polygonal-technology-design-image114420387)
-
+![my_image](C:\Users\USER\Downloads/wireframe.png)
 **WireFrame**
 
-it is more like a black and white abstract draft to a bigger project that we want to outreach 
+it is more like a black and white abstract draft to a bigger project that we want to outreach :
+
+## Examples :
+# Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change, which can help tremendously in early conversations about your website or product.
+# With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper—than changes deemed necessary after coding is under way.
+# Switching later to software (after initially hand-drawing your wireframe) allows you to keep track of more detailed decisions.
 
