@@ -38,3 +38,7 @@ NOW :  # lets talk about semantics :
 IN any languge semantics is the lingusitc meaning, but in programing : Semantics describes the processes a computer follows when executing a program in that specific language. This can be shown by describing the relationship between the input and output of a program, or an explanation of how the program will be executed on a certain platform, hence creating a model of computation.
 
 
+<img align="left" src="images/k8s-dashboard-namespace.png" width=200 > ![](images/k8s-dashboard-namespace.png)
+
+
+
