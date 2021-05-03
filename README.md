@@ -13,6 +13,14 @@
   ## ++MY GREATEST ACHIEVENT WILL BE WHENEVER SOMEONE CLICKS ON THE BELOW WIKIPAGE, IT WILL BE FULL OF INOFRMATION ABOUT MY TECH FIRM!!++
   
   
-  [![S| NAILTIQUE](https://www.designevo.com/apps/logo/?name=gradient-lowercase-a-and-s-monogram)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+  [![S| NAILTIQUE](https://www.designevo.co)m/apps/logo/?name=gradient-lowercase-a-and-s-monogram)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+  
+  
+  
+  
+![Wireframe](https://www.dreamstime.com/wireframe-low-poly-mesh-human-cartoon-body-virtual-reality-medical-blueprint-scanned-d-model-polygonal-technology-design-image114420387)
 
+**WireFrame**
+
+it is more like a black and white abstract draft to a bigger project that we want to outreach 
 
