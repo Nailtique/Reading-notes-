@@ -33,6 +33,8 @@ it is more like a black and white abstract draft to a bigger project that we wan
 
 
 
-noe lets talk about semantics, in any languge semantics is the lingusitc meaning, but in programing : Semantics describes the processes a computer follows when executing a program in that specific language. This can be shown by describing the relationship between the input and output of a program, or an explanation of how the program will be executed on a certain platform, hence creating a model of computation.
+NOW :  *lets talk about semantics,* 
+
+# in any languge semantics is the lingusitc meaning, but in programing : Semantics describes the processes a computer follows when executing a program in that specific language. This can be shown by describing the relationship between the input and output of a program, or an explanation of how the program will be executed on a certain platform, hence creating a model of computation.
 
 
