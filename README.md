@@ -24,7 +24,8 @@
 it is more like a black and white abstract draft to a bigger project that we want to outreach :
 
 ## Examples :
-# Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change, which can help tremendously in early conversations about your website or product.
+# Wireframes drawn with paper and a pencil, or at a whiteboard, have the advantage of looking and being very easy to change, which can help tremendously in early conversations about your website or product.![wireframe](https://user-images.githubusercontent.com/83532083/116927610-8d2a5180-ac64-11eb-8177-e49f445b060f.jpg)
+
 # With the help of paper-prototypes, you can test with end users at every stage of ideation and design. Changes at these stages are much easier—and therefore cheaper—than changes deemed necessary after coding is under way.
 # Switching later to software (after initially hand-drawing your wireframe) allows you to keep track of more detailed decisions.
 
