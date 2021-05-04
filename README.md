@@ -20,7 +20,7 @@ I have never been as excited in my life to learn something new, something that i
 | Name of file| Topic Covered |
 |----------    |   
 |    Read 01   |              |
-|    Read02     |              |
+|    Read02    |              |
 |    Read03    |              |  
     
 
