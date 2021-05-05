@@ -19,9 +19,11 @@ I have never been as excited in my life to learn something new, something that i
 
 | Name of file| Topic Covered |
 |----------    |   
-|    Read 01   |              |
-|    Read02    |              |
-|    Read03    |              |  
+
+|    Read 01   |[Grothmindset](https://nailtique.github.io/Reading-notes-/Read01)             |
+|    Read02     |              |
+|    Read03    | [HTML] (https://nailtique.github.io/Reading-notes-/Read03)     |  
+
     
 
   

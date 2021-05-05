@@ -23,7 +23,7 @@ Relational operators"
 
 
 The control flow is the order in which the computer executes statements in a script.
-Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
+Control flow means that when you read a script, you must not only read from start   finish but also look at program structure and how it affects order of execution.
 
 
 
