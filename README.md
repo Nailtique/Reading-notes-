@@ -19,11 +19,15 @@ I have never been as excited in my life to learn something new, something that i
   [NAILTIQUE](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
   
     
-| Syntax      | Description |
+| Name       | Description |
 | ----------- | ----------- |
 | Read 01     | [click here](https://nailtique.github.io/Reading-notes-/Read01)       
-| Read 02     |   [click here ]      (https://nailtique.github.io/Reading-notes-/Read02)
-   Read 03    |   [click here](https://nailtique.github.io/Reading-notes-/Read03)
+| Read 02     | [click here](https://nailtique.github.io/Reading-notes-/Read02)
+Read 03    |   [click here](https://nailtique.github.io/Reading-notes-/Read03)|
+Read 04    |   [click here](https://nailtique.github.io/Reading-notes-/Read04)|
+Read 05    |   [click here](https://nailtique.github.io/Reading-notes-/Read05)|
+Read 06    |   [click here](https://nailtique.github.io/Reading-notes-/Read06)|
+
 
 
 
