@@ -11,11 +11,9 @@ I have never been as excited in my life to learn something new, something that i
 
 **wish me all the luck**
   
-  ** MY GREATEST ACHIEVMENT WILL BE WHENEVER SOMEONE CLICKS ON THE BELOW WIKIPAGE, IT WILL BE FULL OF INOFRMATION ABOUT MY TECH FIRM!!**
+  ** MY GREATEST ACHIEVMENT WILL BE WHENEVER SOMEONE CLICKS ON THE BELOW WIKIPAGE, IT WILL BE FULL OF INOFRMATION ABOUT MY TECH FIRM!!**  
   
-  
-  [![S| NAILTIQUE](https://www.designevo.co)m/apps/logo/?name=gradient-lowercase-a-and-s-monogram)]
-  
+   
   [NAILTIQUE](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
   
     
