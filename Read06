@@ -1,0 +1,14 @@
+Reading 06--
+
+JavaScript Functions:
+
+A JavaScript function is a block of code designed to perform a particular task, it is executed when it is called, or something calls it. 
+
+**Example**
+function myFunction(p1, p2) {
+  return p1 * p2;   // The function returns the product of p1 and p2
+
+
+  **Why Functions?**
+You can reuse code: Define the code once, and use it many times, as using the same code but with different argunebs to produce different results, this will save us time and efforts.
+
