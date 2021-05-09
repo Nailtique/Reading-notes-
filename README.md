@@ -11,23 +11,19 @@ I have never been as excited in my life to learn something new, something that i
 
 **wish me all the luck**
   
-  ## MY GREATEST ACHIEVMENT WILL BE WHENEVER SOMEONE CLICKS ON THE BELOW WIKIPAGE, IT WILL BE FULL OF INOFRMATION ABOUT MY TECH FIRM!!++
+  ** MY GREATEST ACHIEVMENT WILL BE WHENEVER SOMEONE CLICKS ON THE BELOW WIKIPAGE, IT WILL BE FULL OF INOFRMATION ABOUT MY TECH FIRM!!**
   
   
-  [![S| NAILTIQUE](https://www.designevo.co)m/apps/logo/?name=gradient-lowercase-a-and-s-monogram)](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+  [![S| NAILTIQUE](https://www.designevo.co)m/apps/logo/?name=gradient-lowercase-a-and-s-monogram)]
   
-
-| Name of file| Topic Covered |
-|----------    |   
-
-|    Read 01   |[Grothmindset](https://nailtique.github.io/Reading-notes-/Read01)             |
-|    Read02     |              |
-|    Read03    | [HTML] (https://nailtique.github.io/Reading-notes-/Read03)     |  
-
+  [NAILTIQUE](https://en.wikipedia.org/w/index.phpsearch=Nailtique&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1)
+  
     
-
-  
-  
+| Syntax      | Description |
+| ----------- | ----------- |
+| Read 01     | [click here](https://nailtique.github.io/Reading-notes-/Read01)       
+| Read 02     |   [click here ]      (https://nailtique.github.io/Reading-notes-/Read02)
+   Read 03    |   [click here](https://nailtique.github.io/Reading-notes-/Read03)
 
 
 
