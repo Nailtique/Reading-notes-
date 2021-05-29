@@ -43,3 +43,33 @@ Creating an object :
 
 we create an object through literal notation / it is the easuest and th emost popular way
 the object is stored in a variable, it is between curly braces and would refer to an object 
+
+PART TWO OF THE READING 
+
+Document object model : DOM 
+
+The DOM is neither part of HTML, nor part of JavaScript; it is a separate set of rules. 
+It is implemented by all major browser makers, and covers two primary areas:
+
+
+THE DOM TREE IS A 
+MODEL OF A WEB PAGE 
+As a browser loads a web page, it creates a model of that page. 
+The model is called a DOM tree, and it is stored in the browsers' memory. 
+It consists of four main types of nodes. 
+BODY OF HTML PAGE 
+<html> 
+<body> 
+<di v id="page"> 
+<hl id="header">List</hl> 
+<h2>Buy groceries</h2> 
+<ul > 
+<li id="one" class="hot"><em>fresh</em> figs</li> 
+<li id="two" class="hot">pine nuts</l i> 
+<l i id="three" class="hot">honey</l i > 
+<l i id="four">balsamic vinegar</l i> 
+</ ul > 
+<script src="js/l i st.js "></scri pt> 
+</ div> 
+</ body> 
+</ html > 
