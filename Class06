@@ -57,19 +57,8 @@ MODEL OF A WEB PAGE
 As a browser loads a web page, it creates a model of that page. 
 The model is called a DOM tree, and it is stored in the browsers' memory. 
 It consists of four main types of nodes. 
-BODY OF HTML PAGE 
-<html> 
-<body> 
-<di v id="page"> 
-<hl id="header">List</hl> 
-<h2>Buy groceries</h2> 
-<ul > 
-<li id="one" class="hot"><em>fresh</em> figs</li> 
-<li id="two" class="hot">pine nuts</l i> 
-<l i id="three" class="hot">honey</l i > 
-<l i id="four">balsamic vinegar</l i> 
-</ ul > 
-<script src="js/l i st.js "></scri pt> 
-</ div> 
-</ body> 
-</ html > 
+
+
+
+
+
