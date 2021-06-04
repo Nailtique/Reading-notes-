@@ -91,6 +91,51 @@ that determine how it appears.
 W
   
   --------------------------------------------------------
-  now lets gp to the javascript :
+  now lets go to the javascript :
  
-  basics : java script is a lanaguge - so we need to learn how to read ti
+  basics : java script is a lanaguge - so we need to learn how to read the it.
+  
+statements :
+  A script is a series of instructions that a computer can follow one-by-one. 
+Each individual instruction or step is known as a statement. 
+Statements should end with a semicolon. 
+  
+  what is a variable ? var ?
+  
+  a script that have a storage temorarly the bits of information it needs to get the job done.
+  
+  
+  data types in java :
+  1- numeric 
+  - string
+  - boolean 
+  
+  -----------------------------------------------------------------------------------------------------
+  
+  decisions and loops : 
+  
+  Looking at a flowchart (for all but the most basic scripts), 
+the code can take more than one path, which means the 
+browser runs different code in different situations. In this 
+chapter, you will learn how to create and control the flow of 
+data in your scripts to handle different situations. 
+Scripts often need to behave differently depending upon how the user interacts with the web 
+page and/or the browser window itself. To determine which path to take, programmers often 
+rely upon the following three concepts: 
+EVALUATIONS 
+You can analyze values in 
+your scripts to determine 
+whether or note they 
+match expected results. 
+9 DECISIONS & LOOPS 
+DECISIONS 
+Using the results of 
+evaluations, you can 
+decide which path your 
+script should go down. 
+LOOPS 
+There are also many 
+occasions where you will 
+want to perform the same 
+set of steps repeatedly.
+  
