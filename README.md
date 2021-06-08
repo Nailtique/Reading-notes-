@@ -27,6 +27,21 @@ Read 05    |   [click here](https://nailtique.github.io/Reading-notes-/Read05)|
 Read 06    |   [click here](https://nailtique.github.io/Reading-notes-/Read06)|
 
 
+   
+| Name       | Description |
+| ----------- | ----------- |
+Read 01    | [click here](https://nailtique.github.io/Reading-notes-/Class-01)       
+Read 02    | [click here](https://nailtique.github.io/Reading-notes-/Class-02)
+Read 03    | [click here](https://nailtique.github.io/Reading-notes-/Class-03)
+Read 04    | [click here](https://nailtique.github.io/Reading-notes-/Class-04)
+Read 05    | [click here](https://nailtique.github.io/Reading-notes-/Class-05)
+Read 06    | [click here](https://nailtique.github.io/Reading-notes-/Class-06)
+Read 07    | [click here](https://nailtique.github.io/Reading-notes-/Class-07)       
+Read 08    | [click here](https://nailtique.github.io/Reading-notes-/Class-08)
+Read 09    | [click here](https://nailtique.github.io/Reading-notes-/Class-09)
+Read 10    | [click here](https://nailtique.github.io/Reading-notes-/Class-10)
+Read 11    | [click here](https://nailtique.github.io/Reading-notes-/Class-11)
+Read 12    | [click here](https://nailtique.github.io/Reading-notes-/Class-12)
 
 
 
